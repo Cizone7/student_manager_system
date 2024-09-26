@@ -1,19 +1,4 @@
-![首页](image.svg)
-<style>
-  .small-image {
-    width: 100px;
-    height: auto;
-  }
-</style>
-<img src="image.svg" alt="首页" class="small-image">
-![登入](image1.svg)
-<style>
-  .small-image {
-    width: 100px;
-    height: auto;
-  }
-</style>
-<img src="url_to_image" alt="description" class="small-image">
+<img src="image.svg" alt="description" width="100" height="100">
 
 ## 开发环境说明
 

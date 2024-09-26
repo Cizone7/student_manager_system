@@ -1,5 +1,19 @@
-![本地路径-w70](image.svg)
-![本地路径-w70](image1.svg)
+![首页](image.svg)
+<style>
+  .small-image {
+    width: 100px;
+    height: auto;
+  }
+</style>
+<img src="url_to_image" alt="description" class="small-image">
+![登入](image1.svg)
+<style>
+  .small-image {
+    width: 100px;
+    height: auto;
+  }
+</style>
+<img src="url_to_image" alt="description" class="small-image">
 
 ## 开发环境说明
 

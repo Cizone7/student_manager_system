@@ -4,7 +4,7 @@
 - 数据库系统：SQL Server 2019
 - 设计工具：Visual Studio 2022，Visio 2021
 - 系统版本：Microsoft Windows 10
-
+![本地路径](image.svg)
 ## 需求分析
 
 ### 用户需求

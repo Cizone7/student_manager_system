@@ -1,4 +1,7 @@
-<img src="image.svg" alt="description" width="200">
+<div style="display: flex; justify-content: space-around;">
+  <img src="image.svg" alt="Image 1" style="width:200px;height:auto;">
+  <img src="image1.svg" alt="Image 2" style="width:400px;height:auto;">
+</div>
 
 ## 开发环境说明
 

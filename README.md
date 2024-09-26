@@ -1,4 +1,4 @@
-<img src="image.svg" alt="description" width="100" height="100">
+<img src="image.svg" alt="description" width="200">
 
 ## 开发环境说明
 
